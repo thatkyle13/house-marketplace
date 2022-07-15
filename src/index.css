@@ -296,7 +296,7 @@ button {
   color: #00cc66;
   font-weight: 600;
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 8rem;
 }
 
 @media (min-width: 1217px) {
@@ -393,10 +393,11 @@ button {
 .exploreCategoryName {
   font-weight: 500;
   text-align: left;
+  margin-bottom: 8rem;
 }
 
 .category {
-  margin-bottom: 10rem;
+  margin-bottom: 12rem;
 }
 
 .categoryListings {
